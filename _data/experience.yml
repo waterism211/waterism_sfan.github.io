@@ -1,21 +1,5 @@
-- uni: University of Maryland
-  degree: PhD in Statistics
-  year: 2023–Now
-  award: Dean’s Fellowship, Hauptman Fellowship
-  summary: GPA: 4.00/4.00
-
-- uni: University of Notre Dame
-  degree: PhD in Statistics
-  year: 2021–2023
-  summary: GPA: 4.00/4.00
-
-- uni: North Carolina State University
-  degree: MS in Statistics
-  year: 2019–2021
-  summary: GPA: 3.97/4.00
-
-- uni: Zhejiang University
-  degree: BS in Mathematics
-  year: 2015–2019
-  award: Social Work & Practice Scholarships, Student Leader Award
-  summary: GPA: 3.59/4.00
+- company: University of Maryland
+  position: Teaching Assistant
+  duration: 2022–Now
+  summary: >
+Teaching Assiant for STAT 100 and STAT 400. Grader for STAT 401, 410, 430 and 740.
