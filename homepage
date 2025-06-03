@@ -1,7 +1,14 @@
-echo "# waterism_sfan.github.io" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:waterism211/waterism_sfan.github.io.git
-git push -u origin main
+# still inside the repo folder
+cat > index.html <<'EOF'
+<!doctype html>
+<html lang="en">
+  <meta charset="utf-8">
+  <title>Hello, GitHub Pages!</title>
+  <h1 style="font-family:sans-serif">It works 🎉</h1>
+  <p>This page is served from my <code>waterism_sfan.github.io</code> repo.</p>
+</html>
+EOF
+
+git add index.html
+git commit -m "Add first web page"
+git push
